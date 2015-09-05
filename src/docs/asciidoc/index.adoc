@@ -1,0 +1,7 @@
+Java vs. Scala
+==============
+:Author: Rahel Lüthy, @netzwerg999 
+
+Why I love Java, but prefer Scala.
+
+include::hello-world.adoc[]

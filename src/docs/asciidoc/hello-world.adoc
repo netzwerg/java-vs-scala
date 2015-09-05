@@ -1,0 +1,20 @@
+[[hello-world]]
+== Hello World 
+Java:
+[source,java]
+----
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hey Java!");
+    }
+    
+}
+----
+Scala:
+[source,scala]
+----
+object HelloWorld extends App {
+  println("Hey Scala!")
+}
+----
